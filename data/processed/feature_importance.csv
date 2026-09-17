@@ -1,0 +1,12 @@
+feature,importance
+gdp_growth,0.14881839
+inflation,0.10596693
+government_consumption_percent_gdp,0.10243119
+gdp_growth_lag_1,0.09546984
+unemployment,0.086482555
+gdp_per_capita,0.08212171
+gross_fixed_capital_formation,0.08189649
+population_growth,0.07954774
+trade_openness,0.074859716
+gdp_growth_lag_2,0.07461658
+fdi_inflows_percent_gdp,0.0677888

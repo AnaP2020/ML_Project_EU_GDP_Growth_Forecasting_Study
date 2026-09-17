@@ -1,0 +1,4 @@
+feature_set,n_features,train_MAE,test_MAE,MAE_gap,train_R2,test_R2
+A. Baseline (11 features),11,1.148,2.841,1.693,0.818,-0.332
+B. + Current Account,12,1.123,2.818,1.695,0.826,-0.279
+C. + Current Account & Lag,13,1.154,2.749,1.595,0.811,-0.318

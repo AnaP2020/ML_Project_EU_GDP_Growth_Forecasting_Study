@@ -1,0 +1,8 @@
+model,train_MAE,test_MAE,train_R2,test_R2
+XGB baseline,0.7854,3.5027,0.9186,-0.799
+XGB RandomSearch,0.5543,2.9621,0.951,-0.338
+XGB GridSearch,1.1481,2.8412,0.818,-0.3321
+manual: shallow_strong_reg,1.675,3.0558,0.5852,-0.514
+manual: deep_weak_reg,0.029,3.3503,0.9999,-0.6602
+manual: slow_learner,1.0379,3.331,0.8559,-0.6716
+manual: fast_learner,0.3868,3.8019,0.9815,-1.1001
