@@ -245,7 +245,7 @@ Data quality issues: World Bank indicators contain measurement issues (e.g., Ire
 Coverage constraints: many WDI indicators have structural gaps for EU-27, 1995–2025.
 
 ## Presentation
-Slides: [link to Google Slides]
+Slides: [text](https://docs.google.com/presentation/d/17DnXfqTFIbtQyj0RGZyEhsJ_j7WFl80fauf3-RYB-f8/edit?usp=drive_link)
 
 ## References
 Meese, R., & Rogoff, K. (1983). Empirical exchange rate models of the seventies: Do they fit out-of-sample? Journal of International Economics.
